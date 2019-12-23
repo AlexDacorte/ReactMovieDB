@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ReactMovieDB/static/css/main.dabe5b26.chunk.css",
-    "main.js": "/ReactMovieDB/static/js/main.da7939c0.chunk.js",
-    "main.js.map": "/ReactMovieDB/static/js/main.da7939c0.chunk.js.map",
+    "main.js": "/ReactMovieDB/static/js/main.b2932dd8.chunk.js",
+    "main.js.map": "/ReactMovieDB/static/js/main.b2932dd8.chunk.js.map",
     "runtime-main.js": "/ReactMovieDB/static/js/runtime-main.5758a2c1.js",
     "runtime-main.js.map": "/ReactMovieDB/static/js/runtime-main.5758a2c1.js.map",
     "static/js/2.ddc58675.chunk.js": "/ReactMovieDB/static/js/2.ddc58675.chunk.js",
     "static/js/2.ddc58675.chunk.js.map": "/ReactMovieDB/static/js/2.ddc58675.chunk.js.map",
     "index.html": "/ReactMovieDB/index.html",
-    "precache-manifest.f7d742c0eb5e6e8fc09b722a20de259c.js": "/ReactMovieDB/precache-manifest.f7d742c0eb5e6e8fc09b722a20de259c.js",
+    "precache-manifest.907e38d949040118fef3ba47c5c1984e.js": "/ReactMovieDB/precache-manifest.907e38d949040118fef3ba47c5c1984e.js",
     "service-worker.js": "/ReactMovieDB/service-worker.js",
     "static/css/main.dabe5b26.chunk.css.map": "/ReactMovieDB/static/css/main.dabe5b26.chunk.css.map",
     "static/js/2.ddc58675.chunk.js.LICENSE": "/ReactMovieDB/static/js/2.ddc58675.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5758a2c1.js",
     "static/js/2.ddc58675.chunk.js",
     "static/css/main.dabe5b26.chunk.css",
-    "static/js/main.da7939c0.chunk.js"
+    "static/js/main.b2932dd8.chunk.js"
   ]
 }
