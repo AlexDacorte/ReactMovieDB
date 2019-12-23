@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AlexDacorte/ReactMovieDB/static/css/main.dabe5b26.chunk.css",
+    "main.js": "/AlexDacorte/ReactMovieDB/static/js/main.da7939c0.chunk.js",
+    "main.js.map": "/AlexDacorte/ReactMovieDB/static/js/main.da7939c0.chunk.js.map",
+    "runtime-main.js": "/AlexDacorte/ReactMovieDB/static/js/runtime-main.40924c75.js",
+    "runtime-main.js.map": "/AlexDacorte/ReactMovieDB/static/js/runtime-main.40924c75.js.map",
+    "static/js/2.ddc58675.chunk.js": "/AlexDacorte/ReactMovieDB/static/js/2.ddc58675.chunk.js",
+    "static/js/2.ddc58675.chunk.js.map": "/AlexDacorte/ReactMovieDB/static/js/2.ddc58675.chunk.js.map",
+    "index.html": "/AlexDacorte/ReactMovieDB/index.html",
+    "precache-manifest.37fa8b2c868c9d77bc41a5bda5f0dce3.js": "/AlexDacorte/ReactMovieDB/precache-manifest.37fa8b2c868c9d77bc41a5bda5f0dce3.js",
+    "service-worker.js": "/AlexDacorte/ReactMovieDB/service-worker.js",
+    "static/css/main.dabe5b26.chunk.css.map": "/AlexDacorte/ReactMovieDB/static/css/main.dabe5b26.chunk.css.map",
+    "static/js/2.ddc58675.chunk.js.LICENSE": "/AlexDacorte/ReactMovieDB/static/js/2.ddc58675.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40924c75.js",
+    "static/js/2.ddc58675.chunk.js",
+    "static/css/main.dabe5b26.chunk.css",
+    "static/js/main.da7939c0.chunk.js"
+  ]
+}
